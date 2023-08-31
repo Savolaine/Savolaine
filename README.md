@@ -1,4 +1,4 @@
-👋 Hello there! I'm Pekki, a passionate software developer currently studying at Riveria University. With a focus on creating elegant solutions, I've gained proficiency in a wide range of programming languages, frameworks, and tools.
+👋 Hello there! I'm Pekki, a passionate software developer currently studying at Riveria Vocational Institute aka "Amis". With a focus on creating elegant solutions, I've gained proficiency in a wide range of programming languages, frameworks, and tools.
 
 ## About Me
 

@@ -31,7 +31,7 @@ Here are some of the skills, languages, and frameworks I've worked with:
 - MongoDB
 
 ## School projects
-~I have a lot of files to search for to add the repos here it might take a while…~
+I have a lot of files to search for to add the repos here it might take a while…
 ### Java: Notepad, Calculator app, java app with mysql editor and viewer,
 
 Description: Primitive Notepad app with keybinds using Netbeans, Calculator app with basic functions 

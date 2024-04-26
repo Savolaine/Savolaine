@@ -51,5 +51,5 @@ Description: Just started learning React & MongoDB this fall but I have learnt h
 
 I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me via:
 
-- GitHub: [@pekki.s](https://github.com/pekki.s)
+- GitHub: [@Savolaine](https://github.com/Savolaine)
 - Email: pekki.savolaine@gmail.com
